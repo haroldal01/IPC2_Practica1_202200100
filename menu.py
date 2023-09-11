@@ -66,8 +66,11 @@ while opcion1 != 3:
     
 
     elif opcion1 ==2:
-        print("Harold Alejandro Sánchez Hernández")
         print("carnet: 202200100")
+        print("Harold Alejandro Sánchez Hernández")
+        print("Introducción a la programación y computación 2")
+        print("Sección C")
+
 
     elif opcion1 == 3:
         print("saliendo...")

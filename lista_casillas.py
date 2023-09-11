@@ -1,6 +1,5 @@
 from casilla import *
 
-import sys
 import os
 
 class listaCasillas:
